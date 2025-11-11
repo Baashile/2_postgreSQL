@@ -2,7 +2,7 @@
 -- PostgreSQL database dump
 --
 
-\restrict I7SS6H1BjR79yxdEt9ZGQUpFkOE2I4OtVfCWFex33zLb1MbbfsWocw9EnR7D1Lt
+--\restrict I7SS6H1BjR79yxdEt9ZGQUpFkOE2I4OtVfCWFex33zLb1MbbfsWocw9EnR7D1Lt
 
 -- Dumped from database version 15.14 (Ubuntu 15.14-1.pgdg24.04+1)
 -- Dumped by pg_dump version 15.14 (Ubuntu 15.14-1.pgdg24.04+1)
@@ -262,5 +262,5 @@ ALTER TABLE ONLY public.detail_commande
 -- PostgreSQL database dump complete
 --
 
-\unrestrict I7SS6H1BjR79yxdEt9ZGQUpFkOE2I4OtVfCWFex33zLb1MbbfsWocw9EnR7D1Lt
+---\unrestrict I7SS6H1BjR79yxdEt9ZGQUpFkOE2I4OtVfCWFex33zLb1MbbfsWocw9EnR7D1Lt
 
